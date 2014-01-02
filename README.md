@@ -1,3 +1,11 @@
+<<<<<<< HEAD
+=======
+BabbzzzConky
+============
+
+An infinity based theme for Conky.
+
+>>>>>>> 1fe128f46801a8a9f8c539f103c739e92d778139
 # InfinitySVG-Mail: A Theme for Conky
 
 ## About
