@@ -3,11 +3,11 @@ BabbzzzConky
 
 An infinity based theme for Conky.
 
-# InfinitySVG-Mail: A Theme for Conky
+# BabbzzzInfinity: A Theme for Conky
 
 ## About
 
-InfinitySVG-Mail is a theme for the "conky" system monitor for X. It is based on the InfinitySVG theme by Eric Weik.
+BabbzzzInfinity is a theme for the "conky" system monitor for X. It is based on the InfinitySVG theme by Eric Weik.
 
 ![InfinitySVG-Mail screenshot](https://raw.github.com/Babbzzz/BabbzzzConky/master/images/Screenshot.png)
 
@@ -16,6 +16,7 @@ InfinitySVG-Mail is a theme for the "conky" system monitor for X. It is based on
 
 As best I can tell, the following people had a hand in the creation of this theme.  Thank you!
 
+- BabbzzzInfinity by: Abhilash Anandan
 - InfinirtySVG-Mail by: Pablo Angelani
 - Original Conky Google Now:
 	- [http://satya164.deviantart.com/art/Conky-Google-Now-366545753](http://satya164.deviantart.com/art/Conky-Google-Now-366545753)
